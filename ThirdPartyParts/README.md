@@ -14,3 +14,8 @@
 - [ISO4762_Hex_Socket_Head_Cap_Screw_M3x12](https://github.com/FreeCAD/FreeCAD-library/blob/b5390c1df545455c84af5da7b930cc0c82dfd5a1/Mechanical%20Parts/Fasteners/Bolts%20%26%20Screws/Metric/ISO4762_Hex_Socket_Head_Cap_Screw_M3x12.fcstd)
 - [ISO4762_Hex_Socket_Head_Cap_Screw_M3x16](https://github.com/FreeCAD/FreeCAD-library/blob/b5390c1df545455c84af5da7b930cc0c82dfd5a1/Mechanical%20Parts/Fasteners/Bolts%20%26%20Screws/Metric/ISO4762_Hex_Socket_Head_Cap_Screw_M3x16.fcstd)
 - [DIN 125 class 4 M3 Flat Washer](https://github.com/FreeCAD/FreeCAD-library/blob/b5390c1df545455c84af5da7b930cc0c82dfd5a1/Mechanical%20Parts/Fasteners/Washers/Metric/DIN%20125%20class%204%20M3%20Flat%20Washer.fcstd)
+
+
+[CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+[Marcelo Vioque](https://github.com/viqbem):
+- [Trapezoidal_nut](https://github.com/FreeCAD/FreeCAD-library/blob/b5390c1df545455c84af5da7b930cc0c82dfd5a1/Mechanical%20Parts/4-wire%20thread/Trapezoidal_nut.fcstd)
